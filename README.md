@@ -1,2 +1,2 @@
-# C-projects
-A collection of my projects in C
+# C-programs
+A collection of my programs in C
